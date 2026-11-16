@@ -25,3 +25,11 @@ python air.py
 
 ## Credits
 ONNX models and helper files from OpenCV Zoo (MediaPipe models).
+
+
+
+
+https://github.com/user-attachments/assets/bc23fbf8-568d-4fff-a139-c7f67c9dfa04
+
+
+
